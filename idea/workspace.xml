@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94399088-c192-491a-ad7c-fd686fbb2143" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/burgers/src/app/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/fonts/Gilroy-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/fonts/Merriweather-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/burgers_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/food truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/main_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/main_burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/order_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/order_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers/src/assets/images/whybg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burgers/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/burgers/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/burgers" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U4It3HRhoLODckb4Dc1GuqnEAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Алексей/Desktop/XXX/untitled/burgers-lending/burgers&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Алексей\Desktop\XXX\untitled\burgers-lending\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Алексей\Desktop\XXX\untitled\burgers-lending\style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94399088-c192-491a-ad7c-fd686fbb2143" name="Changes" comment="" />
+      <created>1692192636508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692192636508</updated>
+      <workItem from="1692192637524" duration="4425000" />
+      <workItem from="1692205224724" duration="3782000" />
+      <workItem from="1692261395311" duration="11573000" />
+      <workItem from="1692292163567" duration="6242000" />
+      <workItem from="1692347618913" duration="9295000" />
+      <workItem from="1692367686462" duration="4316000" />
+      <workItem from="1692523445114" duration="9608000" />
+      <workItem from="1692535485454" duration="5720000" />
+      <workItem from="1692615920072" duration="1827000" />
+      <workItem from="1692632974992" duration="709000" />
+      <workItem from="1692643775314" duration="1873000" />
+      <workItem from="1692695606686" duration="1203000" />
+      <workItem from="1692730007034" duration="598000" />
+      <workItem from="1692779531974" duration="2124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
